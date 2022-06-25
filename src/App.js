@@ -1,25 +1,50 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useState } from "react";
+import { BrowserRouter, Route } from "react-router-dom";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+import RecipeCard from "./components/recipeCard/RecipeCard";
+import Navbar from "./components/navbar/Navbar";
+import Cart from "./components/cart/Cart";
+
+import GlobalStyles from "./globalStyles";
+import data from "./data/data";
+
+const App = () => {
+	const [clickedCateg, setClickedCateg] = useState("breakfast");
+
+	const categClicked = (categ) => {
+		setClickedCateg(categ);
+	};
+
+	const filteredRecipes = data.filter((data) => {
+		return data.category === clickedCateg;
+	});
+
+	const recipe = filteredRecipes.map((data) => {
+		return (
+			<RecipeCard
+				key={data.key}
+				image={data.image}
+				title={data.title}
+				price={data.price}
+				details={data.detail}
+			/>
+		);
+	});
+
+	return (
+		<div>
+			<GlobalStyles />
+			<BrowserRouter>
+				<Route path="/" exact>
+					<Navbar data={data} categClicked={categClicked} />
+					{recipe}
+				</Route>
+				<Route path="/cart" exact>
+					<Cart />
+				</Route>
+			</BrowserRouter>
+		</div>
+	);
+};
 
 export default App;

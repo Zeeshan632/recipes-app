@@ -1,0 +1,154 @@
+[
+    {
+        "key": 1,
+        "title": "Honey Pancake",
+        "category": "breakfast",
+        "price": "$20",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint blanditiis harum quisquam eius sed odit fugiat iusto fuga.",
+        "image": "https://i.ibb.co/82mN1MV/honey-pancake.jpg"
+    },
+    {
+        "key": 2,
+        "title": "Egg Sandwhich",
+        "category": "breakfast",
+        "price": "$12",
+        "detail":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint blanditiis harum quisquam eius sed odit fugiat iusto fuga.",
+        "image": "https://i.ibb.co/10jrg72/egg-sandwich.jpg"
+    },
+    {
+        "key": 3,
+        "title": "Strawberry Cream Waffles",
+        "category": "breakfast",
+        "price": "$30",
+        "detail":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint blanditiis harum quisquam eius sed odit fugiat iusto fuga.",
+        "image": "https://i.ibb.co/4fr4TGQ/strawberry-cream-waffles.jpg"
+    },
+    {
+        "key": 4,
+        "title": "Chicken Petties",
+        "category": "breakfast",
+        "price": "$8",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint blanditiis harum quisquam eius sed odit fugiat iusto fuga.",
+        "image": "https://i.ibb.co/vzFHfcn/chicken-petties.jpg"
+    },
+    {
+        "key": 5,
+        "title": "Vanilla Ice-Cream",
+        "category": "ice-cream",
+        "price": "$15",
+        "detail":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint blanditiis harum quisquam eius sed odit fugiat iusto fuga.",
+        "image": "https://i.ibb.co/xsPKf3F/vanilla-icecream.jpg"
+    },
+    {
+        "key": 6,
+        "title": "Mango Ice-Cream",
+        "category": "ice-cream",
+        "price": "$14",
+        "detail":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint blanditiis harum quisquam eius sed odit fugiat iusto fuga.",
+        "image": "https://i.ibb.co/5c0HQ4D/mango-icecream.jpg"
+    },
+    {
+        "key": 7,
+        "title": "Mulberry Flavored Ice-Cream",
+        "category": "ice-cream",
+        "price": "$20",
+        "detail":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint blanditiis harum quisquam eius sed odit fugiat iusto fuga.",
+        "image": "https://i.ibb.co/Mn9Wwy8/mullberry-flavored-icecream.jpg"
+    },
+    {
+        "key": 8,
+        "title": "Strawberry Waffer Ice-Cream",
+        "category": "ice-cream",
+        "price": "$18",
+        "detail":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint blanditiis harum quisquam eius sed odit fugiat iusto fuga.",
+        "image": "https://i.ibb.co/WGFhF46/strawberry-icecream.jpg"
+    },
+    {
+        "key": 9,
+        "title": "Fried Beef Slices",
+        "category": "lunch",
+        "price": "$40",
+        "detail":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint blanditiis harum quisquam eius sed odit fugiat iusto fuga.",
+        "image": "https://i.ibb.co/5K5sTB5/fried-beef-slices.jpg"
+    },
+    {
+        "key": 10,
+        "title": "Pasta",
+        "category": "lunch",
+        "price": "$25",
+        "detail":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint blanditiis harum quisquam eius sed odit fugiat iusto fuga.",
+        "image": "https://i.ibb.co/Z8jFT0H/pasta.jpg"
+    },
+    {
+        "key": 11,
+        "title": "Rice With Vegetable Curry",
+        "category": "lunch",
+        "price": "$25",
+        "detail":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint blanditiis harum quisquam eius sed odit fugiat iusto fuga.",
+        "image": "https://i.ibb.co/ncHXYSY/rice-with-curry.jpg"
+    },
+    {
+        "key": 12,
+        "title": "Salted Mixed Salad",
+        "category": "lunch",
+        "price": "$25",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint blanditiis harum quisquam eius sed odit fugiat iusto fuga.",
+        "image": "https://i.ibb.co/sqJLjcr/salted-mixed-salad.jpg"
+    },
+    {
+        "key": 13,
+        "title": "Grilled Fish",
+        "category": "lunch",
+        "price": "$40",
+        "detail":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint blanditiis harum quisquam eius sed odit fugiat iusto fuga.",
+        "image": "https://i.ibb.co/rwhb1N3/grilled-fish.jpg"
+    },
+    {
+        "key": 14,
+        "title": "Jaam-e-Sheereen",
+        "category": "drinks",
+        "price": "$5",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint blanditiis harum quisquam eius sed odit fugiat iusto fuga.",
+        "image": "https://i.ibb.co/RgHKc9N/jam-e-sheereen.jpg"
+    },
+    {
+        "key": 15,
+        "title": "Lemonade",
+        "category": "drinks",
+        "price": "$5",
+        "detail":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint blanditiis harum quisquam eius sed odit fugiat iusto fuga.",
+        "image": "https://i.ibb.co/P955scM/lemonade.jpg"
+    },
+    {
+        "key": 16,
+        "title": "Oreo Shake",
+        "category": "drinks",
+        "price": "$10",
+        "detail":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint blanditiis harum quisquam eius sed odit fugiat iusto fuga.",
+        "image": "https://i.ibb.co/4sm7f7Z/oreo-shake.jpg"
+    },
+    {
+        "key": 17,
+        "title": "Chocolate Shake",
+        "category": "drinks",
+        "price": "$8",
+        "detail":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint blanditiis harum quisquam eius sed odit fugiat iusto fuga.",
+        "image": "https://i.ibb.co/6m8Szjp/chocolate-shake.jpg"
+    },
+    {
+        "key": 18,
+        "title": "Mango Shake",
+        "category": "drinks",
+        "price": "$8",
+        "detail":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint blanditiis harum quisquam eius sed odit fugiat iusto fuga.",
+        "image": "https://i.ibb.co/xggZg98/mango-shake.jpg"
+    },
+    {
+        "key": 19,
+        "title": "Strawberry Shake",
+        "category": "drinks",
+        "price": "$8",
+        "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint blanditiis harum quisquam eius sed odit fugiat iusto fuga.",
+        "image": "https://i.ibb.co/QfmFzdz/strawberry-shake.jpg"
+    }
+]
